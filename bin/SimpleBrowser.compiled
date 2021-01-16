@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1331391477"/>
+  <Params Value=" -MDelphi -Scghi -O1 -g -gl -WG -l -vewnhibq -FiZ:\CEF4Delphi\bin -FuC:\Users\maxim\AppData\Local\lazarus\onlinepackagemanager\packages\CEF4Delphi\packages\lib\x86_64-win64 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FuZ:\CEF4Delphi\demos\Lazarus_Windows\SimpleBrowser\ -FEZ:\CEF4Delphi\bin\ -oZ:\CEF4Delphi\bin\SimpleBrowser.exe -dLCL -dLCLwin32 -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL SimpleBrowser.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
